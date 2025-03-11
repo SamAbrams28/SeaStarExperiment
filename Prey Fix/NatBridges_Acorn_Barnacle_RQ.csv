@@ -1,0 +1,59 @@
+Date,EventID,Site,School,Zone,Organism,Unit,"Count Mean","Sample Size","Standard Deviation","Standard Error","95% Confidence Interval","Collected Samples","Checked By"
+04-20-1973,04-20-1973,"Natural Bridges","CSU Stanislas","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",2.86,22,5.37,1.15,"[0.62,5.11]","{0,0,4,0,0,0,0,0,0,2,0,23,0,4,2,14,5,1,2,2,0,4}",None
+04-20-1973,04-20-1973,"Natural Bridges","CSU Stanislas","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",19.5,22,5.42,1.15,"[17.24,21.76]","{25,13,24,18,10,21,19,25,18,23,18,25,24,25,8,14,19,25,12,25,14,24}",None
+04-09-1974,04-09-1974,"Natural Bridges","CSU Stanislas","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",6.75,8,7.43,2.63,"[1.6,11.9]","{14,0,0,0,12,21,3,4}",None
+04-09-1974,04-09-1974,"Natural Bridges","CSU Stanislas","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",21.73,15,6.1,1.58,"[18.64,24.82]","{24,25,22,22,24,23,24,0,25,21,23,25,25,18,25}",None
+04-10-1974,04-10-1974,"Natural Bridges","CSU Stanislas","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",9.71,7,8.45,3.19,"[3.46,15.97]","{10,1,8,21,23,5,0}",None
+04-15-1975,04-15-1975,"Natural Bridges","CSU Stanislas","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",8.25,24,9.48,1.93,"[4.46,12.04]","{20,0,2,2,0,15,12,24,1,4,1,4,25,25,25,3,21,0,8,0,3,0,2,1}",None
+04-15-1975,04-15-1975,"Natural Bridges","CSU Stanislas","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",22.04,26,6.17,1.21,"[19.67,24.41]","{23,20,25,25,25,25,25,25,20,0,8,25,24,10,25,25,25,25,25,25,21,25,25,25,22,25}",None
+05-01-1976,05-01-1976,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",19,1,0,0,"[19,19]",{19},None
+05-01-1976,05-01-1976,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",8,1,0,0,"[8,8]",{8},None
+11-01-1978,11-01-1978,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",19,1,0,0,"[19,19]",{19},None
+11-01-1978,11-01-1978,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",13,1,0,0,"[13,13]",{13},None
+05-01-1980,05-01-1980,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",14,1,0,0,"[14,14]",{14},None
+05-01-1980,05-01-1980,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",15,1,0,0,"[15,15]",{15},None
+05-01-1983,05-01-1983,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",3,1,0,0,"[3,3]",{3},None
+05-01-1983,05-01-1983,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",8,1,0,0,"[8,8]",{8},None
+05-01-1986,05-01-1986,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",20,1,0,0,"[20,20]",{20},None
+05-01-1990,05-01-1990,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",16,1,0,0,"[16,16]",{16},None
+05-01-1990,05-01-1990,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",18,1,0,0,"[18,18]",{18},None
+05-10-1993,05-10-1993,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",14.94,16,8.14,2.04,"[10.95,18.93]","{5,3,21,9,9,8,18,10,24,25,3,25,14,15,25,25}",None
+05-10-1993,05-10-1993,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",14,1,0,0,"[14,14]",{14},None
+05-01-1996,05-01-1996,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",14,1,0,0,"[14,14]",{14},None
+05-01-1996,05-01-1996,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",22,1,0,0,"[22,22]",{22},None
+05-07-1997,05-07-1997,"Natural Bridges",UCSC,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",15.31,26,8.46,1.66,"[12.06,18.56]","{25,17,1,13,8,25,25,3,4,25,25,15,23,8,25,7,25,20,11,25,6,10,6,10,25,11}",None
+05-07-1997,05-07-1997,"Natural Bridges",UCSC,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",18,1,0,0,"[18,18]",{18},None
+05-29-2006,05-29-2006,"Natural Bridges","Aptos High School","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",20.83,6,9.32,3.8,"[13.38,28.29]","{25,25,25,0,25,25}",None
+12-02-2009,12-02-2009,"Natural Bridges","Pacific Collegiate School","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",14.6,5,9.89,4.42,"[5.93,23.27]","{25,16,0,7,25}",None
+12-02-2009,12-02-2009,"Natural Bridges","Pacific Collegiate School","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",22.38,8,5.85,2.07,"[18.32,26.43]","{25,25,25,25,24,7,25,23}",None
+01-01-2010,01-01-2010,"Natural Bridges","Pacific Collegiate School","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",20.33,6,5.53,2.26,"[15.91,24.76]","{17,10,25,20,25,25}",None
+01-01-2010,01-01-2010,"Natural Bridges","Pacific Collegiate School","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",16,2,9,6.36,"[3.53,28.47]","{7,25}",None
+02-26-2011,02-26-2011,"Natural Bridges","MARE- Lawrence Hall of Science, UC Berkeley","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",12,2,12,8.49,"[-4.63,28.63]","{24,0}",None
+03-02-2012,03-02-2012,"Natural Bridges",CSUMB,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",10.67,6,10.92,4.46,"[1.93,19.4]","{17,25,0,0,22,0}",None
+02-08-2013,02-08-2013,"Natural Bridges","Aptos High School","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",17.8,15,9.17,2.37,"[13.16,22.44]","{4,25,25,16,21,25,25,0,0,11,18,25,23,24,25}",None
+03-08-2013,03-08-2013,"Natural Bridges","Cabrillo College","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",16.2,5,5.42,2.42,"[11.45,20.95]","{19,14,9,14,25}",None
+03-08-2013,03-08-2013,"Natural Bridges","Cabrillo College","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",13.33,12,9.93,2.87,"[7.72,18.95]","{25,1,6,3,21,25,25,12,0,13,25,4}",None
+08-06-2013,08-06-2013,"Natural Bridges","Camp SEA Lab","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",24.5,12,0.96,0.28,"[23.96,25.04]","{25,25,25,23,25,25,25,22,24,25,25,25}",None
+04-22-2014,04-22-2014,"Natural Bridges","Skyline High School","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",7.8,5,10.17,4.55,"[-1.11,16.71]","{0,25,0,0,14}",None
+05-20-2014,05-20-2014,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",8,4,10.22,5.11,"[-2.02,18.02]","{0,7,0,25}",None
+05-21-2014,05-21-2014,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",16,3,10.68,6.16,"[3.92,28.08]","{1,25,22}",None
+06-01-2014,06-01-2014,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",25,2,0,0,"[25,25]","{25,25}",None
+06-01-2014,06-01-2014,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",9,1,0,0,"[9,9]",{9},None
+12-04-2014,12-04-2014,"Natural Bridges","Lincoln High School","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",11,6,11.4,4.65,"[1.88,20.12]","{16,25,25,0,0,0}",None
+12-04-2014,12-04-2014,"Natural Bridges","Lincoln High School","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",0,1,0,0,"[0,0]",{0},None
+02-27-2015,02-27-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",17.82,11,10.39,3.13,"[11.68,23.96]","{23,25,25,25,21,25,24,0,25,3,0}",None
+03-16-2015,03-16-2015,"Natural Bridges","Lincoln High School","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",3.57,7,8.75,3.31,"[-2.91,10.05]","{25,0,0,0,0,0,0}",None
+03-24-2015,03-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",4.33,3,2.05,1.19,"[2.01,6.66]","{4,2,7}",None
+03-24-2015,03-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",13.7,10,10.36,3.28,"[7.28,20.12]","{4,11,5,0,17,25,25,25,25,0}",None
+04-10-2015,04-10-2015,"Natural Bridges",CART,"High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",11.9,21,8.83,1.93,"[8.13,15.68]","{0,0,6,8,8,25,18,11,25,25,9,8,15,4,0,16,14,6,2,25,25}",None
+04-10-2015,04-10-2015,"Natural Bridges",CART,"Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",14.24,21,11.16,2.44,"[9.46,19.01]","{0,0,0,20,0,0,25,25,4,14,24,0,25,25,25,25,25,19,18,0,25}",None
+04-24-2015,04-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",9.71,7,11.3,4.27,"[1.35,18.08]","{23,25,0,0,20,0,0}",None
+04-24-2015,04-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",19.5,4,4.15,2.08,"[15.43,23.57]","{15,16,25,22}",None
+05-09-2015,05-09-2015,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",16.25,4,9.83,4.92,"[6.61,25.89]","{23,25,17,0}",None
+05-09-2015,05-09-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",22.5,2,2.5,1.77,"[19.04,25.96]","{20,25}",None
+01-20-2016,01-20-2016,"Natural Bridges","International School of the Peninsula","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",12,5,9.98,4.46,"[3.25,20.75]","{20,0,0,23,17}",None
+02-18-2016,02-18-2016,"Natural Bridges","Watsonville High School","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",4,2,2,1.41,"[1.23,6.77]","{2,6}",None
+02-19-2016,02-19-2016,"Natural Bridges","Menlo Altherton High School (deactivated)","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",11.21,14,9.87,2.64,"[6.04,16.39]","{1,25,25,7,2,25,9,0,17,13,25,4,4,0}",None
+04-01-2016,04-01-2016,"Natural Bridges","Center for Advanced Research and Technology (CART)","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",12.37,19,9.73,2.23,"[7.99,16.74]","{25,0,0,0,25,0,25,8,23,5,8,12,6,12,21,2,23,25,15}",None
+04-16-2016,04-16-2016,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",17.67,3,9.67,5.58,"[6.72,28.61]","{24,25,4}",None
+04-16-2016,04-16-2016,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Common acorn barnacle - Balanus/Chthamalus","Squares per ¼ m² (max 25)",13,2,9,6.36,"[0.53,25.47]","{22,4}",None

@@ -1,0 +1,31 @@
+Date,EventID,Site,School,Zone,Organism,Unit,"Count Mean","Sample Size","Standard Deviation","Standard Error","95% Confidence Interval","Collected Samples","Checked By"
+04-16-1975,04-16-1975,"Almar Avenue","michelle sarah and habib doing old data entry"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",17.92,26,5.8,1.14,"[15.69,20.15]","{13,5,13,14,15,23,11,14,16,10,25,25,22,23,17,8,25,25,21,24,22,15,23,17,16,24}",None
+10-10-1976,10-10-1976,"Almar Avenue","michelle sarah and habib doing old data entry"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16.55,22,4.41,0.94,"[14.7,18.39]","{16,20,5,23,16,20,20,18,16,16,13,20,17,16,14,21,14,22,18,12,20,7}",None
+11-01-1978,11-01-1978,"Almar Avenue","michelle sarah and habib doing old data entry"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.05,20,5.78,1.29,"[17.52,22.58]","{25,25,24,15,0,17,25,22,11,20,19,21,21,21,20,24,22,23,25,21}",None
+04-30-1983,04-30-1983,"Almar Avenue","michelle sarah and habib doing old data entry"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.33,30,4.83,0.88,"[18.61,22.06]","{23,24,19,9,17,20,13,12,24,24,23,23,21,24,24,16,23,19,25,25,24,14,24,20,22,24,23,22,7,22}",None
+05-12-1986,05-12-1986,"Almar Avenue","CSU Stanislas"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",18.19,26,7.36,1.44,"[15.36,21.02]","{25,12,25,25,21,22,2,2,24,3,15,9,25,22,20,20,14,24,25,23,18,22,18,24,23,10}",None
+05-10-1990,05-10-1990,"Almar Avenue",UCSC," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",21,1,0,0,"[21,21]",{21},None
+05-20-1996,05-20-1996,"Almar Avenue","IMA admin."," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",22.3,10,3,0.95,"[20.44,24.16]","{23,20,25,25,25,25,21,24,16,19}",None
+05-20-1996,05-20-1996,"Almar Avenue","CSU Stanislas"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",22.43,14,3.11,0.83,"[20.8,24.06]","{24,23,20,24,24,24,25,24,14,19,19,25,25,24}",None
+12-18-2005,12-18-2005,"Almar Avenue","michelle sarah and habib doing old data entry"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",13,1,0,0,"[13,13]",{13},None
+03-29-2006,03-29-2006,"Almar Avenue","CSU Stanislas"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20,2,5,3.54,"[13.07,26.93]","{15,25}",None
+05-27-2009,05-27-2009,"Almar Avenue",UCSC," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",19.3,10,6.74,2.13,"[15.12,23.48]","{25,15,23,22,25,16,4,25,25,13}",None
+11-01-2009,11-01-2009,"Almar Avenue","Pacific Collegiate School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",15.83,6,5.58,2.28,"[11.37,20.3]","{19,16,20,23,9,8}",None
+11-02-2009,11-02-2009,"Almar Avenue","Pacific Collegiate School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",13.5,6,7.43,3.03,"[7.55,19.45]","{15,9,25,1,13,18}",None
+11-03-2009,11-03-2009,"Almar Avenue","Pacific Collegiate School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.67,3,2.49,1.44,"[17.84,23.49]","{20,18,24}",None
+03-16-2011,03-16-2011,"Almar Avenue","Spring Hill School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",17.4,5,8.8,3.94,"[9.69,25.11]","{21,22,24,0,20}",None
+10-25-2011,10-25-2011,"Almar Avenue","Pacific Collegiate School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",18.88,8,5.42,1.92,"[15.12,22.63]","{18,25,11,13,14,20,25,25}",None
+02-06-2012,02-06-2012,"Almar Avenue","Pacific Collegiate School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",17.6,5,8.87,3.97,"[9.83,25.37]","{22,24,0,21,21}",None
+04-30-2013,04-30-2013,"Almar Avenue","St. Mary's Gilroy"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",11.56,16,8.68,2.17,"[7.31,15.82]","{8,21,0,25,3,3,3,13,0,0,18,18,19,21,20,13}",None
+08-08-2013,08-08-2013,"Almar Avenue","Camp SEA Lab"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",14.5,14,8.64,2.31,"[9.97,19.03]","{16,21,16,0,5,21,21,3,0,23,25,11,19,22}",None
+11-16-2013,11-16-2013,"Almar Avenue","MBNMS Exploration Center"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.4,5,3.83,1.71,"[17.05,23.75]","{16,21,24,25,16}",None
+03-25-2014,03-25-2014,"Almar Avenue","St. Mary's Gilroy"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",5.29,7,5.92,2.24,"[0.9,9.67]","{18,0,4,8,0,6,1}","Only Coordinator"
+04-03-2014,04-03-2014,"Almar Avenue","Santa Cruz Montessori School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",13.63,16,5.78,1.44,"[10.79,16.46]","{10,9,25,8,4,17,22,21,7,17,10,11,15,10,14,18}",None
+02-28-2015,02-28-2015,"Almar Avenue","Pacific Grove Museum of Natural History"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",21,12,2.77,0.8,"[19.43,22.57]","{19,23,22,19,25,22,15,22,19,19,25,22}",None
+03-27-2015,03-27-2015,"Almar Avenue","Pacific Grove Museum of Natural History"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16.55,11,8.23,2.48,"[11.68,21.41]","{25,0,22,23,25,17,23,5,20,9,13}",None
+04-23-2015,04-23-2015,"Almar Avenue","St. Mary's Gilroy"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",15.63,19,8.52,1.96,"[11.8,19.46]","{0,25,25,25,13,16,11,0,0,15,25,10,13,25,25,18,21,18,12}",None
+05-02-2016,05-02-2016,"Almar Avenue","Mission College"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",21.44,9,3.1,1.03,"[19.42,23.47]","{16,17,23,24,24,19,23,25,22}",None
+05-12-2016,05-12-2016,"Almar Avenue","St. Mary's Gilroy"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.33,6,6.77,2.77,"[14.91,25.75]","{25,7,25,16,25,24}",None
+04-04-2017,04-04-2017,"Almar Avenue","St. Mary's Gilroy"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",17.3,20,6.56,1.47,"[14.43,20.17]","{9,22,18,24,13,18,25,13,19,5,24,25,23,2,14,24,22,15,13,18}","Both Teacher and Coordinator"
+04-24-2018,04-24-2018,"Almar Avenue","St. Mary's Gilroy"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16,10,7.24,2.29,"[11.51,20.49]","{25,18,18,9,22,9,2,12,24,21}","Both Teacher and Coordinator"
+05-21-2018,05-21-2018,"Almar Avenue","Menlo-Atherton High School"," --- ","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",17.6,15,8.84,2.28,"[13.13,22.07]","{24,23,25,25,24,0,25,12,16,7,1,21,11,25,25}","Only Coordinator"

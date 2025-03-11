@@ -1,0 +1,82 @@
+Date,EventID,Site,School,Zone,Organism,Unit,"Count Mean","Sample Size","Standard Deviation","Standard Error","95% Confidence Interval","Collected Samples","Checked By"
+04-20-1973,04-20-1973,"Natural Bridges","CSU Stanislas","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",5.73,22,6.18,1.32,"[3.14,8.31]","{6,0,10,0,9,6,0,0,2,4,0,25,0,3,9,15,15,7,4,3,1,7}",None
+04-20-1973,04-20-1973,"Natural Bridges","CSU Stanislas","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.09,22,5.65,1.2,"[17.73,22.45]","{25,11,25,18,8,24,23,25,19,25,13,25,16,25,14,24,18,25,10,25,19,25}",None
+04-09-1974,04-09-1974,"Natural Bridges","CSU Stanislas","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",5,8,5.1,1.8,"[1.47,8.53]","{10,0,0,2,12,12,4,0}",None
+04-09-1974,04-09-1974,"Natural Bridges","CSU Stanislas","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",18.73,15,7.03,1.81,"[15.18,22.29]","{24,25,21,20,21,24,14,2,25,17,5,25,23,13,22}",None
+04-10-1974,04-10-1974,"Natural Bridges","CSU Stanislas","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",7.14,7,4.19,1.58,"[4.04,10.25]","{5,9,3,6,16,8,3}",None
+04-15-1975,04-15-1975,"Natural Bridges","CSU Stanislas","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9.54,24,8.64,1.76,"[6.09,13]","{11,3,2,8,0,14,16,21,2,7,15,10,25,25,25,1,23,3,7,1,4,1,5,0}",None
+04-15-1975,04-15-1975,"Natural Bridges","CSU Stanislas","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.54,26,6.91,1.35,"[17.88,23.19]","{20,20,25,25,25,25,25,25,8,3,16,17,23,6,25,25,25,25,25,25,15,25,24,25,7,25}",None
+05-01-1976,05-01-1976,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20,1,0,0,"[20,20]",{20},None
+05-01-1976,05-01-1976,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",8,1,0,0,"[8,8]",{8},None
+11-01-1978,11-01-1978,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",19,1,0,0,"[19,19]",{19},None
+11-01-1978,11-01-1978,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",8,1,0,0,"[8,8]",{8},None
+05-01-1980,05-01-1980,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",11,1,0,0,"[11,11]",{11},None
+05-01-1980,05-01-1980,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",10,1,0,0,"[10,10]",{10},None
+05-01-1983,05-01-1983,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",4,1,0,0,"[4,4]",{4},None
+05-01-1983,05-01-1983,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9,1,0,0,"[9,9]",{9},None
+05-01-1986,05-01-1986,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16,1,0,0,"[16,16]",{16},None
+05-01-1990,05-01-1990,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",4,1,0,0,"[4,4]",{4},None
+05-01-1990,05-01-1990,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",15,1,0,0,"[15,15]",{15},None
+05-10-1993,05-10-1993,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",8.5,16,8.52,2.13,"[4.32,12.68]","{0,8,19,6,12,4,0,2,2,25,0,23,13,2,19,1}",None
+05-10-1993,05-10-1993,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",13,1,0,0,"[13,13]",{13},None
+05-01-1996,05-01-1996,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9,1,0,0,"[9,9]",{9},None
+05-01-1996,05-01-1996,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",15,1,0,0,"[15,15]",{15},None
+05-07-1997,05-07-1997,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",8.5,26,8.55,1.68,"[5.21,11.79]","{9,0,11,4,6,10,14,4,3,25,25,2,12,4,22,2,25,1,0,25,4,2,3,2,2,4}",None
+05-07-1997,05-07-1997,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",17,1,0,0,"[17,17]",{17},None
+05-01-2000,05-01-2000,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",15,1,0,0,"[15,15]",{15},None
+05-01-2000,05-01-2000,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",21,1,0,0,"[21,21]",{21},None
+05-01-2001,05-01-2001,"Natural Bridges",UCSC,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",11,1,0,0,"[11,11]",{11},None
+05-01-2001,05-01-2001,"Natural Bridges",UCSC,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",22,1,0,0,"[22,22]",{22},None
+05-29-2006,05-29-2006,"Natural Bridges","Aptos High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",21.33,6,3.73,1.52,"[18.35,24.32]","{17,25,19,25,17,25}",None
+12-02-2009,12-02-2009,"Natural Bridges","Pacific Collegiate School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",11.6,5,9.67,4.32,"[3.13,20.07]","{25,15,0,1,17}",None
+12-02-2009,12-02-2009,"Natural Bridges","Pacific Collegiate School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",18.63,8,7.94,2.81,"[13.13,24.12]","{25,20,25,20,13,0,24,22}",None
+01-01-2010,01-01-2010,"Natural Bridges","Pacific Collegiate School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",15.29,7,8.45,3.19,"[9.03,21.54]","{14,0,25,8,15,25,20}",None
+01-01-2010,01-01-2010,"Natural Bridges","Pacific Collegiate School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9,2,8,5.66,"[-2.09,20.09]","{1,17}",None
+02-26-2011,02-26-2011,"Natural Bridges","MARE- Lawrence Hall of Science, UC Berkeley","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.5,2,4.5,3.18,"[14.26,26.74]","{25,16}",None
+03-02-2012,03-02-2012,"Natural Bridges",CSUMB,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",10.5,6,9.95,4.06,"[2.54,18.46]","{11,25,0,5,0,22}",None
+02-08-2013,02-08-2013,"Natural Bridges","Aptos High School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16.47,15,8.66,2.23,"[12.09,20.85]","{5,25,2,10,23,23,25,0,25,10,14,18,22,20,25}",None
+03-08-2013,03-08-2013,"Natural Bridges","Cabrillo College","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.2,5,6.68,2.99,"[6.35,18.05]","{12,9,6,9,25}",None
+03-08-2013,03-08-2013,"Natural Bridges","Cabrillo College","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9.25,12,11.01,3.18,"[3.02,15.48]","{25,1,2,1,0,25,24,2,0,2,25,4}",None
+08-06-2013,08-06-2013,"Natural Bridges","Camp SEA Lab","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",23.14,14,2.5,0.67,"[21.83,24.45]","{25,25,22,21,23,25,25,25,25,22,16,25,24,21}",None
+04-22-2014,04-22-2014,"Natural Bridges","Skyline High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.6,5,9.91,4.43,"[3.91,21.29]","{2,25,0,20,16}",None
+05-20-2014,05-20-2014,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",6.75,4,10.54,5.27,"[-3.58,17.08]","{1,1,0,25}",None
+05-21-2014,05-21-2014,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",20.33,3,4.64,2.68,"[15.08,25.59]","{14,25,22}",None
+06-01-2014,06-01-2014,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",25,2,0,0,"[25,25]","{25,25}",None
+06-01-2014,06-01-2014,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",11,1,0,0,"[11,11]",{11},None
+12-04-2014,12-04-2014,"Natural Bridges","Lincoln High School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16,6,10.03,4.1,"[7.97,24.03]","{21,25,23,0,23,4}",None
+12-04-2014,12-04-2014,"Natural Bridges","Lincoln High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",0,1,0,0,"[0,0]",{0},None
+02-27-2015,02-27-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",17.09,11,8.82,2.66,"[11.88,22.3]","{23,25,25,25,15,24,4,1,25,10,11}",None
+03-16-2015,03-16-2015,"Natural Bridges","Lincoln High School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",10.86,7,10.99,4.15,"[2.72,19]","{25,0,4,20,2,25,0}",None
+03-24-2015,03-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",4.67,3,0.94,0.54,"[3.6,5.73]","{6,4,4}",None
+03-24-2015,03-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16.2,10,9.72,3.08,"[10.17,22.23]","{4,10,5,0,25,20,25,25,25,23}",None
+04-10-2015,04-10-2015,"Natural Bridges",CART,"High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9.86,21,10.45,2.28,"[5.39,14.33]","{22,23,0,0,0,25,15,2,24,22,9,0,0,0,0,5,0,5,5,25,25}",None
+04-10-2015,04-10-2015,"Natural Bridges",CART,"Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",18.14,21,8.71,1.9,"[14.42,21.87]","{10,15,24,13,25,25,25,25,4,3,24,0,25,25,25,25,25,21,4,15,23}",None
+04-24-2015,04-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",11.43,7,9.6,3.63,"[4.31,18.54]","{23,25,3,0,18,3,8}",None
+04-24-2015,04-24-2015,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",8.25,4,10.21,5.1,"[-1.75,18.25]","{8,0,25,0}",None
+05-09-2015,05-09-2015,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",14.25,4,6.98,3.49,"[7.41,21.09]","{15,25,11,6}",None
+05-09-2015,05-09-2015,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",23,2,2,1.41,"[20.23,25.77]","{21,25}",None
+01-20-2016,01-20-2016,"Natural Bridges","International School of the Peninsula","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.8,5,10.5,4.69,"[3.6,22]","{20,0,0,23,21}",None
+02-18-2016,02-18-2016,"Natural Bridges","Watsonville High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",10,2,4,2.83,"[4.46,15.54]","{6,14}",None
+02-19-2016,02-19-2016,"Natural Bridges","Menlo Altherton High School (deactivated)","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9.43,14,9.41,2.51,"[4.5,14.36]","{2,25,17,7,1,25,8,0,15,4,24,0,1,3}",None
+04-01-2016,04-01-2016,"Natural Bridges","Center for Advanced Research and Technology (CART)","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.95,19,9.64,2.21,"[8.61,17.28]","{25,1,7,0,25,1,25,11,23,5,8,12,6,18,0,7,25,25,22}",None
+04-16-2016,04-16-2016,"Natural Bridges","Pacific Grove Museum of Natural History","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16.67,3,11.09,6.4,"[4.12,29.21]","{24,25,1}",None
+04-16-2016,04-16-2016,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",15.5,2,6.5,4.6,"[6.49,24.51]","{22,9}",None
+02-06-2017,02-06-2017,"Natural Bridges","Western Sierra Collegiate Academy","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.38,8,8,2.83,"[6.83,17.92]","{25,1,8,11,12,25,6,11}","Only Teacher"
+03-12-2017,03-12-2017,"Natural Bridges","Vanguard University","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.67,6,5.34,2.18,"[8.39,16.94]","{18,12,13,2,18,13}","Both Teacher and Coordinator"
+03-12-2017,03-12-2017,"Natural Bridges","Vanguard University","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",22.75,4,2.28,1.14,"[20.52,24.98]","{25,24,23,19}","Both Teacher and Coordinator"
+03-24-2017,03-24-2017,"Natural Bridges","Center for Advanced Research and Technology (CART)","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.21,14,8.74,2.34,"[7.63,16.79]","{25,6,8,5,8,5,25,14,1,10,25,12,25,2}","Only Coordinator"
+03-24-2017,03-24-2017,"Natural Bridges","Center for Advanced Research and Technology (CART)","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",22,6,3.21,1.31,"[19.43,24.57]","{21,25,19,17,25,25}","Only Coordinator"
+04-14-2017,04-14-2017,"Natural Bridges","Cabrillo College","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",9.5,14,9.55,2.55,"[4.5,14.5]","{22,14,22,5,23,0,0,25,0,4,0,0,12,6}","Only Coordinator"
+05-05-2017,05-05-2017,"Natural Bridges","Cabrillo College","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",10,14,9.94,2.66,"[4.79,15.21]","{23,1,21,0,25,0,1,21,24,0,4,3,8,9}","Only Coordinator"
+03-12-2018,03-12-2018,"Natural Bridges","Center for Advanced Research and Technology (CART)","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.53,19,8.74,2.01,"[8.59,16.46]","{6,12,4,25,4,15,4,16,8,4,3,25,25,19,2,11,5,25,25}","Only Coordinator"
+03-26-2018,03-26-2018,"Natural Bridges","Lincoln High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",12.08,12,7.14,2.06,"[8.05,16.12]","{13,14,25,4,18,5,10,5,19,20,1,11}","Only Coordinator"
+03-26-2018,03-26-2018,"Natural Bridges","Lincoln High School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",10.5,8,6.26,2.22,"[6.16,14.84]","{8,8,4,5,19,4,19,17}","Only Coordinator"
+03-27-2018,03-27-2018,"Natural Bridges","Pitman High School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",14.47,19,7.74,1.78,"[10.99,17.95]","{18,14,25,20,25,20,4,19,18,6,19,0,0,14,11,25,11,18,8}","Both Teacher and Coordinator"
+03-27-2018,03-27-2018,"Natural Bridges","Pitman High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",16.43,7,9.91,3.75,"[9.09,23.77]","{25,5,25,1,24,10,25}","Both Teacher and Coordinator"
+04-23-2018,04-23-2018,"Natural Bridges","Yerba Buena High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",8.29,7,8.75,3.31,"[1.81,14.76]","{4,0,17,9,2,1,25}","Only Coordinator"
+04-24-2018,04-24-2018,"Natural Bridges","Yerba Buena High School","Mid Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",10.4,5,11.53,5.16,"[0.29,20.51]","{24,25,2,,1}","Only Coordinator"
+05-05-2018,05-05-2018,"Natural Bridges","Pacific Grove Museum of Natural History","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",13,2,10,7.07,"[-0.86,26.86]","{3,23}","Only Coordinator"
+05-22-2018,05-22-2018,"Natural Bridges","Menlo-Atherton High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",14.5,6,8.9,3.63,"[7.38,21.62]","{17,13,25,2,5,25}","Only Coordinator"
+03-25-2019,03-25-2019,"Natural Bridges","Menlo-Atherton High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",6.93,14,8.04,2.15,"[2.72,11.14]","{6,25,1,1,9,0,25,5,1,11,3,6,4,0}","Both Teacher and Coordinator"
+03-26-2019,03-26-2019,"Natural Bridges","Menlo-Atherton High School","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",14.06,16,9.57,2.39,"[9.37,18.75]","{19,3,3,25,0,23,22,15,24,8,25,0,17,24,16,1}","Both Teacher and Coordinator"
+04-14-2023,04-14-2023,"Natural Bridges","Center for Advanced Research and Technology (CART)","High Zone","Sea mussel - Mytilus spp.","Squares per ¼ m² (max 25)",11.9,10,7.49,2.37,"[7.26,16.54]","{18,18,7,16,1,6,3,8,17,25}","Both Teacher and Coordinator"

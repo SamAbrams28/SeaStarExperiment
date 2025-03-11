@@ -1,0 +1,162 @@
+Year,Site,Purple_Count,Purple_per_10m,Purple_relative_population,Orange_Count,Orange_per_10m,Orange_relative_population,Mussel_Abundance,Acorn_Barnacle_Abundance,Period
+2008,Almar Avenue,45.5,1.82,1.04,22.5,0.9,1.42,19.3,18.2,Pre-SSWD
+2009,Almar Avenue,65.2,2.61,1.49,22.4,0.9,1.42,16.67,18.39,Pre-SSWD
+2010,Almar Avenue,NA,NA,NA,NA,NA,NA,17.4,15,Pre-SSWD
+2011,Almar Avenue,29,1.16,0.66,7.25,0.29,0.46,18.24,13.8,Pre-SSWD
+2012,Almar Avenue,32.4,1.3,0.74,10.8,0.43,0.68,13.03,12.44,Pre-SSWD
+2013,Almar Avenue,5.4,0.22,0.12,0.2,0.01,0.01,13.11,17.24,Post-SSWD
+2014,Almar Avenue,4.33,0.17,0.1,0.33,0.01,0.02,17.73,17.44,Post-SSWD
+2015,Almar Avenue,13,0.52,0.3,3,0.12,0.19,20.88,16.7,Post-SSWD
+2016,Almar Avenue,NA,NA,NA,NA,NA,NA,17.3,18.15,Post-SSWD
+2017,Almar Avenue,4,0.16,0.09,1.5,0.06,0.1,16.8,13.96,Post-SSWD
+2018,Almar Avenue,8,0.32,0.18,2,0.08,0.13,NA,NA,Post-SSWD
+2019,Almar Avenue,12.67,0.51,0.29,3.67,0.15,0.23,NA,NA,Post-SSWD
+2020,Almar Avenue,7,0.28,0.16,1,0.04,0.06,NA,NA,Post-SSWD
+2021,Almar Avenue,6,0.24,0.14,1,0.04,0.06,NA,NA,Post-SSWD
+2012,Asilomar State Park,2,0.17,1,2,0.17,1,5.78,2,Pre-SSWD
+2013,Asilomar State Park,2.2,0.18,1.07,1,0.08,0.49,6.63,9.46,Post-SSWD
+2014,Asilomar State Park,0.38,0.03,0.18,0,0,0,8.68,NA,Post-SSWD
+2015,Asilomar State Park,0.5,0.04,0.23,0,0,0,5.63,NA,Post-SSWD
+2016,Asilomar State Park,NA,NA,NA,NA,NA,NA,8.82,NA,Post-SSWD
+2017,Asilomar State Park,2,0.17,1,0,0,0,9.29,NA,Post-SSWD
+2018,Asilomar State Park,2,0.17,1,0,0,0,10.13,NA,Post-SSWD
+2019,Asilomar State Park,5.25,0.44,2.6,1.75,0.15,0.87,11.31,NA,Post-SSWD
+2020,Asilomar State Park,7,0.59,3.47,0,0,0,NA,NA,Post-SSWD
+2021,Asilomar State Park,5.33,0.45,2.63,0.33,0.03,0.16,10.85,NA,Post-SSWD
+2011,Carmel Point,3,0.46,1,7,1.08,1,6.83,4.03,Pre-SSWD
+2012,Carmel Point,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2013,Carmel Point,1.25,0.19,0.41,0.5,0.08,0.07,5.42,7.32,Post-SSWD
+2014,Carmel Point,NA,NA,NA,NA,NA,NA,9.04,9.43,Post-SSWD
+2015,Carmel Point,NA,NA,NA,NA,NA,NA,8.31,NA,Post-SSWD
+2016,Carmel Point,NA,NA,NA,NA,NA,NA,11.4,NA,Post-SSWD
+2017,Carmel Point,0,0,0,0,0,0,11.8,NA,Post-SSWD
+2018,Carmel Point,NA,NA,NA,NA,NA,NA,NA,NA,Post-SSWD
+2019,Carmel Point,0.5,0.07,0.16,0.5,0.08,0.07,NA,NA,Post-SSWD
+2020,Carmel Point,0.5,0.07,0.16,0,0,0,NA,NA,Post-SSWD
+2012,Coal Oil Point,44.33,0.44,1,18.67,0.19,1,0.55,1.25,Pre-SSWD
+2013,Coal Oil Point,33.5,0.34,0.76,8,0.08,0.43,NA,NA,Post-SSWD
+2014,Coal Oil Point,NA,NA,NA,NA,NA,NA,NA,NA,Post-SSWD
+2015,Coal Oil Point,NA,NA,NA,NA,NA,NA,19,20,Post-SSWD
+2016,Coal Oil Point,1,0.01,0.02,0,0,0,NA,NA,Post-SSWD
+2017,Coal Oil Point,NA,NA,NA,NA,NA,NA,NA,NA,Post-SSWD
+2018,Coal Oil Point,0,0,0,0,0,0,NA,NA,Post-SSWD
+2008,Davenport Landing,29,2.9,1.6,11,1.1,1.81,13.5,4.31,Pre-SSWD
+2009,Davenport Landing,20.33,2.03,1.12,7.67,0.77,1.26,4.95,9.1,Pre-SSWD
+2010,Davenport Landing,21,2.1,1.16,8.5,0.85,1.4,NA,NA,Pre-SSWD
+2011,Davenport Landing,15,1.5,0.83,2,0.2,0.33,6.44,9.8,Pre-SSWD
+2012,Davenport Landing,9.33,0.93,0.52,1,0.1,0.16,11.29,12.12,Pre-SSWD
+2013,Davenport Landing,0,0,0,0,0,0,4.86,12.1,Post-SSWD
+2014,Davenport Landing,0,0,0,0,0,0,9,12,Post-SSWD
+2015,Davenport Landing,7,0.7,0.38,0,0,0,17.34,NA,Post-SSWD
+2016,Davenport Landing,22,2.2,1.21,6,0.6,0.98,22.39,NA,Post-SSWD
+2017,Davenport Landing,22,2.2,1.22,8,0.8,1.32,22.65,NA,Post-SSWD
+2018,Davenport Landing,24,2.4,1.32,7,0.7,1.15,22.28,NA,Post-SSWD
+2019,Davenport Landing,42.33,4.23,2.34,14.67,1.47,2.41,NA,NA,Post-SSWD
+2020,Davenport Landing,54,5.4,2.99,13,1.3,2.14,NA,NA,Post-SSWD
+2021,Davenport Landing,19,1.9,1.05,5,0.5,0.82,NA,NA,Post-SSWD
+2022,Davenport Landing,17,1.7,0.94,4,0.4,0.66,NA,NA,Post-SSWD
+2006,Fitzgerald Marine Reserve,2.92,0.19,0.91,1,0.07,1.18,2.15,10.22,Pre-SSWD
+2007,Fitzgerald Marine Reserve,4.92,0.33,1.53,0.67,0.05,0.81,1.78,7.77,Pre-SSWD
+2008,Fitzgerald Marine Reserve,5.83,0.39,1.82,1.17,0.08,1.4,0.58,2.59,Pre-SSWD
+2009,Fitzgerald Marine Reserve,2.39,0.16,0.75,0.83,0.06,0.97,0.58,3.52,Pre-SSWD
+2010,Fitzgerald Marine Reserve,2.86,0.19,0.89,1.14,0.08,1.33,0.98,5.37,Pre-SSWD
+2011,Fitzgerald Marine Reserve,1.71,0.11,0.53,0,0,0,1.36,3.14,Pre-SSWD
+2012,Fitzgerald Marine Reserve,1,0.07,0.33,1,0.07,1.22,0.8,4.48,Pre-SSWD
+2013,Fitzgerald Marine Reserve,0,0,0,0,0,0,0.84,4.53,Post-SSWD
+2014,Fitzgerald Marine Reserve,0,0,0,0,0,0,1.32,6.92,Post-SSWD
+2015,Fitzgerald Marine Reserve,5,0.33,1.54,0,0,0,0.43,1.3,Post-SSWD
+2016,Fitzgerald Marine Reserve,NA,NA,NA,NA,NA,NA,2.26,NA,Post-SSWD
+2017,Fitzgerald Marine Reserve,NA,NA,NA,NA,NA,NA,0.94,NA,Post-SSWD
+2018,Fitzgerald Marine Reserve,NA,NA,NA,NA,NA,NA,0.97,NA,Post-SSWD
+2019,Fitzgerald Marine Reserve,NA,NA,NA,NA,NA,NA,NA,NA,Post-SSWD
+2020,Fitzgerald Marine Reserve,5,0.33,1.54,0,0,0,0.12,NA,Post-SSWD
+2021,Fitzgerald Marine Reserve,1,0.07,0.33,0,0,0,2.72,NA,Post-SSWD
+2022,Fitzgerald Marine Reserve,1,0.09,0.4,0,0,0,6.2,NA,Post-SSWD
+2023,Fitzgerald Marine Reserve,4.5,0.45,2.1,1,0.1,1.75,1.41,NA,Post-SSWD
+2006,Natural Bridges,40.5,0.75,0.54,14,0.26,0.52,NA,NA,Pre-SSWD
+2007,Natural Bridges,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2008,Natural Bridges,51.6,0.96,0.68,25.6,0.47,0.96,NA,NA,Pre-SSWD
+2009,Natural Bridges,172,3.18,2.29,50.75,0.94,1.92,13.63,14.17,Pre-SSWD
+2010,Natural Bridges,40,0.74,0.53,14,0.26,0.52,20.5,13.33,Pre-SSWD
+2011,Natural Bridges,51.5,0.96,0.69,28.5,0.53,1.08,10.5,24.5,Pre-SSWD
+2012,Natural Bridges,100,1.85,1.33,19,0.35,0.71,15.27,14.2,Pre-SSWD
+2013,Natural Bridges,8.5,0.16,0.11,2.5,0.05,0.1,15.14,8.28,Post-SSWD
+2014,Natural Bridges,9.33,0.17,0.12,4.5,0.08,0.17,12.48,12.64,Post-SSWD
+2015,Natural Bridges,6,0.11,0.08,3.4,0.06,0.13,12.89,NA,Post-SSWD
+2016,Natural Bridges,24.67,0.46,0.33,7.33,0.14,0.28,14.5,NA,Post-SSWD
+2017,Natural Bridges,7,0.13,0.1,4.75,0.09,0.17,12.47,NA,Post-SSWD
+2018,Natural Bridges,NA,NA,NA,NA,NA,NA,10.5,NA,Post-SSWD
+2019,Natural Bridges,34.67,0.64,0.46,15.33,0.28,0.57,NA,NA,Post-SSWD
+2020,Natural Bridges,28,0.52,0.37,10,0.19,0.39,NA,NA,Post-SSWD
+2021,Natural Bridges,19,0.35,0.25,1,0.02,0.04,NA,NA,Post-SSWD
+2004,Pigeon Point,5,0.3,0.19,0,0,0,NA,NA,Pre-SSWD
+2005,Pigeon Point,NA,NA,NA,NA,NA,NA,0,1.56,Pre-SSWD
+2006,Pigeon Point,43.75,2.64,1.64,8.5,0.51,1.46,0.14,6.32,Pre-SSWD
+2007,Pigeon Point,30.33,1.83,1.14,9.33,0.56,1.6,0.51,11.12,Pre-SSWD
+2008,Pigeon Point,27,1.63,1.02,5.5,0.33,0.94,0.03,2.84,Pre-SSWD
+2009,Pigeon Point,25.75,1.55,0.96,4.75,0.29,0.81,0.06,5.84,Pre-SSWD
+2010,Pigeon Point,18.25,1.1,0.69,4.25,0.26,0.72,0.29,4.02,Pre-SSWD
+2011,Pigeon Point,16,0.96,0.6,4,0.24,0.68,0.14,0.57,Pre-SSWD
+2012,Pigeon Point,NA,NA,NA,NA,NA,NA,0.14,0,Pre-SSWD
+2013,Pigeon Point,0,0,0,0,0,0,0.32,0.92,Post-SSWD
+2014,Pigeon Point,1.67,0.1,0.06,1.33,0.08,0.23,0.11,4.32,Post-SSWD
+2015,Pigeon Point,2,0.12,0.07,1,0.06,0.17,0.24,5.1,Post-SSWD
+2016,Pigeon Point,11,0.66,0.41,2,0.12,0.34,2.44,NA,Post-SSWD
+2017,Pigeon Point,20,1.2,0.75,5,0.3,0.85,0.63,NA,Post-SSWD
+2018,Pigeon Point,11,0.66,0.41,12,0.72,2.05,0.4,NA,Post-SSWD
+2019,Pigeon Point,31.75,1.91,1.19,12.5,0.75,2.14,0,NA,Post-SSWD
+2020,Pigeon Point,28.75,1.73,1.08,9.5,0.57,1.62,NA,NA,Post-SSWD
+2021,Pigeon Point,41,2.47,1.54,15,0.9,2.56,NA,NA,Post-SSWD
+2022,Pigeon Point,35,2.11,1.31,16,0.96,2.74,NA,NA,Post-SSWD
+2008,Pillar Point,33.5,2.56,0.8,8,0.61,0.62,NA,NA,Pre-SSWD
+2009,Pillar Point,50.67,3.87,1.22,12.67,0.96,0.98,20.73,22.28,Pre-SSWD
+2010,Pillar Point,45.75,3.49,1.1,12.75,0.98,0.99,18.75,19.44,Pre-SSWD
+2011,Pillar Point,34.14,2.61,0.82,10.71,0.82,0.83,17.89,16.67,Pre-SSWD
+2012,Pillar Point,42.83,3.27,1.03,17.5,1.34,1.36,14.56,9.79,Pre-SSWD
+2013,Pillar Point,4.2,0.32,0.1,0.8,0.06,0.06,13.78,10.16,Post-SSWD
+2014,Pillar Point,2.5,0.19,0.06,0.75,0.06,0.06,18.14,14.69,Post-SSWD
+2015,Pillar Point,11,0.84,0.26,2,0.15,0.15,22.23,21.98,Post-SSWD
+2016,Pillar Point,NA,NA,NA,NA,NA,NA,12.35,NA,Post-SSWD
+2017,Pillar Point,13.75,1.05,0.33,3.25,0.25,0.25,18.6,NA,Post-SSWD
+2018,Pillar Point,9.75,0.74,0.23,2,0.16,0.16,22.95,NA,Post-SSWD
+2019,Pillar Point,22.25,1.7,0.54,7.75,0.6,0.6,20.5,NA,Post-SSWD
+2020,Pillar Point,10.4,0.79,0.25,5,0.38,0.39,24,NA,Post-SSWD
+2021,Pillar Point,47,3.59,1.13,7,0.53,0.54,18.89,NA,Post-SSWD
+2022,Pillar Point,23,1.75,0.55,6.67,0.51,0.52,16.42,NA,Post-SSWD
+2023,Pillar Point,33,2.52,0.79,15,1.15,1.17,19.72,NA,Post-SSWD
+2006,Point Pinos,23.5,2.13,3.47,10.5,0.96,1.42,NA,NA,Pre-SSWD
+2007,Point Pinos,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2008,Point Pinos,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2009,Point Pinos,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2010,Point Pinos,7,0.63,1.03,6,0.54,0.81,14.6,6.59,Pre-SSWD
+2011,Point Pinos,1.67,0.15,0.24,8.33,0.76,1.12,13.24,9.66,Pre-SSWD
+2012,Point Pinos,3,0.27,0.44,3,0.27,0.4,13.61,8.08,Pre-SSWD
+2013,Point Pinos,0.5,0.04,0.07,0.25,0.02,0.03,13.01,7.54,Post-SSWD
+2014,Point Pinos,0,0,0,0,0,0,13.62,NA,Post-SSWD
+2015,Point Pinos,NA,NA,NA,NA,NA,NA,15.41,NA,Post-SSWD
+2016,Point Pinos,NA,NA,NA,NA,NA,NA,16.46,NA,Post-SSWD
+2017,Point Pinos,1,0.09,0.15,1,0.09,0.13,15.16,NA,Post-SSWD
+2018,Point Pinos,NA,NA,NA,NA,NA,NA,16.61,NA,Post-SSWD
+2019,Point Pinos,2.33,0.21,0.34,0,0,0,15,NA,Post-SSWD
+2020,Point Pinos,5.5,0.5,0.81,0.5,0.04,0.06,NA,NA,Post-SSWD
+2002,San Simeon,8,1.4,0.89,4,0.7,1.33,NA,NA,Pre-SSWD
+2003,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2004,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2005,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2006,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2007,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2008,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2009,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2010,San Simeon,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2011,San Simeon,NA,NA,NA,NA,NA,NA,1.2,13.6,Pre-SSWD
+2012,San Simeon,10,1.75,1.11,2,0.35,0.67,6.75,22.75,Pre-SSWD
+2013,San Simeon,1.25,0.22,0.14,0.5,0.09,0.17,2.26,5.88,Post-SSWD
+2014,San Simeon,0,0,0,0,0,0,4.02,5.31,Post-SSWD
+2015,San Simeon,0,0,0,0,0,0,5.35,NA,Post-SSWD
+2016,San Simeon,2,0.35,0.22,0,0,0,9.26,NA,Post-SSWD
+2017,San Simeon,1,0.17,0.11,0.5,0.09,0.17,9.84,NA,Post-SSWD
+2018,San Simeon,0,0,0,0,0,0,11.69,NA,Post-SSWD
+2011,Wilder Ranch,28,1.87,1,17,1.13,1,13.62,11.45,Pre-SSWD
+2012,Wilder Ranch,NA,NA,NA,NA,NA,NA,NA,NA,Pre-SSWD
+2013,Wilder Ranch,3.25,0.22,0.12,0.5,0.03,0.03,15.89,14.49,Post-SSWD
+2014,Wilder Ranch,5,0.33,0.18,2,0.13,0.12,12.64,14.28,Post-SSWD
