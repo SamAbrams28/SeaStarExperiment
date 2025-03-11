@@ -10,6 +10,7 @@ density_vs_mortality <- pre_sswd %>%
 # I calculated these mortality rates last year. 
 density_vs_mortality$Mortality_rate <- c(87, 20, 83, 100, 100, 100, 91, 100, 92, 88, 85, 98)
 
+write.csv(density_vs_mortality, file = "Density_Mortality_Comparison.csv", row.names = FALSE)
 
 library(ggplot2)
 ggplot(densities_table, aes(last_pre_density, Mortality_rate)) +
