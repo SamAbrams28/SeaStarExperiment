@@ -1,18 +1,18 @@
 # Step 1: Queue up all 12 sites into the R sessioin
 setwd("/Users/samanthaabrams/Documents/MarinCS\ 100B/SeaStarExperiment/Cleaned\ Dataframes")
 
-almar <- read.csv("AlmarAvenue.csv")
-asilomar <- read.csv("AsilomarStatePark.csv")
-carmel <- read.csv("CarmelPoint.csv")
-coal_oil_pt <- read.csv("CoalOilPoint.csv")
-davenport <- read.csv("DavenportLanding.csv")
-fitzgerald <- read.csv("FitzgeraldMarineReserve.csv")
-nat_bridges <- read.csv("NaturalBridges.csv")
-pigeon_pt <- read.csv("PigeonPoint.csv")
-pillar_pt <- read.csv("PillarPoint.csv")
-pt_pinos <- read.csv("PointPinos.csv")
-san_simeon <- read.csv("SanSimeon.csv")
-wilder <- read.csv("WilderRanch.csv")
+almar <- read.csv("Cleaned\ Dataframes/AlmarAvenue.csv")
+asilomar <- read.csv("Cleaned\ Dataframes/AsilomarStatePark.csv")
+carmel <- read.csv("Cleaned\ Dataframes/CarmelPoint.csv")
+coal_oil_pt <- read.csv("Cleaned\ Dataframes/CoalOilPoint.csv")
+davenport <- read.csv("Cleaned\ Dataframes/DavenportLanding.csv")
+fitzgerald <- read.csv("Cleaned\ Dataframes/FitzgeraldMarineReserve.csv")
+nat_bridges <- read.csv("Cleaned\ Dataframes/NaturalBridges.csv")
+pigeon_pt <- read.csv("Cleaned\ Dataframes/PigeonPoint.csv")
+pillar_pt <- read.csv("Cleaned\ Dataframes/PillarPoint.csv")
+pt_pinos <- read.csv("Cleaned\ Dataframes/PointPinos.csv")
+san_simeon <- read.csv("Cleaned\ Dataframes/SanSimeon.csv")
+wilder <- read.csv("Cleaned\ Dataframes/WilderRanch.csv")
 
   # fix coal oil point to account for the different socal sswd timeline
   coal_oil_pt[coal_oil_pt$Date == "11-19-2013", 9] <- "Pre-SSWD"
